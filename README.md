@@ -5,7 +5,7 @@ Currently, Only provide virtual box VMs.
 
 ## Current Images
 
-* CentOS-Stream-8-ContainerEnv
+* [CentOS-Stream-8-ContainerEnv](https://github.com/mintspecter/vagrant-vm-for-learning/blob/main/CentOS-Stream-8-ContainerEnv/Vagrantfile)
  - installed 
    * [cockpit](https://cockpit-project.org/) : Cockpit is a web-based graphical interface for servers
    * [code-server](https://coder.com/): Self-hosted developer workspaces
