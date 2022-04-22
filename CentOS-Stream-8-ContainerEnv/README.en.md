@@ -1,11 +1,11 @@
 ## Table of contents
 
-* [CentOS-Stream-8-ContainerEnv](#CentOS-Stream-8-ContainerEnv)
-* [Usage](#Usage)
-  * [1. Initialize virtual machine](#1.-Initialize-virtual-machine)
-  * [2. Access to virtual machine](#2.-Access-to-virtual-machine)
-    * [Cockpit](#Cockpit)
-    * [Code-server a.k.a Visual Studio Code](#Code-server-a.k.a-Visual-Studio-Code)
+* [CentOS-Stream-8-ContainerEnv](#centos-stream-8-containerenv)
+* [How to use](#how-to-use)
+  * [1. Start virtual machine](#1-start-virtual-machine)
+  * [2. Access to virtual machine](#2-access-to-virtual-machine)
+    * [Cockpit](#cockpit)
+    * [Code-server a.k.a Visual Studio Code](#code-server-aka-visual-studio-code)
 
 # CentOS-Stream-8-ContainerEnv
 
@@ -26,9 +26,9 @@ Virtual machine for container system training
     * [podman-compose](https://github.com/containers/podman-compose): a.k.a [docker-compose](https://docs.docker.com/compose/) An implementation of [Compose Spec](https://compose-spec.io/) with Podman backend. 
     * [cockpit-podman](https://github.com/cockpit-project/cockpit-podman) : This is the Cockpit user interface for podman containers.
 
-## Usage
+## How to use
 
-### 1. Initialize virtual machine
+### 1. Start virtual machine
    * install [virtualbox](https://www.virtualbox.org/)
    * install [vagrant](https://www.vagrantup.com/)
    * clone this repository 
