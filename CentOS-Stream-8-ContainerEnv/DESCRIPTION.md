@@ -21,7 +21,7 @@ ref: https://github.com/mintspecter/vagrant-vm-for-learning/blob/main/CentOS-Str
 Vagrant.configure("2") do |config|
     ## base box
     config.vm.box = "mintspecter/CentOS-Stream-8-ContainerEnv"
-    config.vm.box_version = "1.0.0"
+    config.vm.box_version = "1.0.1"
 
     # cockpit  
     config.vm.network "forwarded_port", guest: 9090, host: 19090, protocol: "tcp", auto_correct: true
