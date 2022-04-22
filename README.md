@@ -11,7 +11,7 @@ Currently, Only provide virtual box VMs.
   
   * Recommended system requirements
     - CPU: 2 cores or more
-    - Memory: 8 GB or more
+    - RAM: 8 GB or more
 
   * How to use
     - English: [CentOS-Stream-8-ContainerEnv/README.en.md](CentOS-Stream-8-ContainerEnv/README.en.md)
