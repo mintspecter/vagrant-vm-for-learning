@@ -5,8 +5,6 @@ Currently, Only provide virtual box VMs.
 
 ## Current Images
 
-* [CentOS-Stream-8-ContainerEnv](https://github.com/mintspecter/vagrant-vm-for-learning/blob/main/CentOS-Stream-8-ContainerEnv/Vagrantfile)
- - installed 
-   * [cockpit](https://cockpit-project.org/) : Cockpit is a web-based graphical interface for servers
-   * [code-server](https://coder.com/): Self-hosted developer workspaces
-   * [podman](https://podman.io/): a.k.a [docker](https://www.docker.com/) Podman is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System
+* [CentOS-Stream-8-ContainerEnv](CentOS-Stream-8-ContainerEnv/Vagrantfile)
+  - Virtual machine for container system training
+  - Please check the [CentOS-Stream-8-ContainerEnv/README.md](CentOS-Stream-8-ContainerEnv/README.md) file.
