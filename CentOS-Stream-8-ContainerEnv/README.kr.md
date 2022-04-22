@@ -1,11 +1,11 @@
 ## 목차
 
-* [CentOS-Stream-8-ContainerEnv](#CentOS-Stream-8-ContainerEnv)
-* [Usage](#Usage)
-  * [1. 가상 머신 실행](#1.-가상-머신-실행)
-  * [2. 가상 머신 접근](#2.-가상-머신-접근)
-    * [Cockpit](#Cockpit)
-    * [Code-server a.k.a Visual Studio Code](#Code-server-a.k.a-Visual-Studio-Code)
+* [CentOS-Stream-8-ContainerEnv](#centos-stream-8-containerenv)
+* [사용법](#사용법)
+  * [1. 가상 머신 실행](#1-가상-머신-실행)
+  * [2. 가상 머신 접근](#2-가상-머신-접근)
+    * [Cockpit](#cockpit)
+    * [Code-server a.k.a Visual Studio Code](#code-server-aka-visual-studio-code)
 
 # CentOS-Stream-8-ContainerEnv
 
