@@ -22,7 +22,7 @@ Currently, Only provide virtual box VMs.
 
   * How to use
     - English: [CentOS-Stream-8-ContainerEnv/README.en.md](CentOS-Stream-8-ContainerEnv/README.en.md)
-    - 한글: [CentOS-Stream-8-ContainerEnv/README.kr.md](CentOS-Stream-8-ContainerEnv/README.kr.md)
+    - 한국어: [CentOS-Stream-8-ContainerEnv/README.kr.md](CentOS-Stream-8-ContainerEnv/README.kr.md)
 
   * The following environments are pre-installed.
     * [cockpit](https://cockpit-project.org/) : Cockpit is a web-based graphical interface for servers
