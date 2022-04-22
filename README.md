@@ -1,7 +1,7 @@
 # Table of contents
 
 * [vagrant-vm-for-learning](#vagrant-vm-for-learning)
-* [Provided virtual machine](#provided-virtual-machine)
+* [VMs](#vms)
   * [CentOS-Stream-8-ContainerEnv](#centos-stream-8-containerenv)
 
 # vagrant-vm-for-learning
@@ -10,7 +10,7 @@ Vagrant VM for Linux system learning, Do not use it for product VM.
 
 Currently, Only provide virtual box VMs.
 
-# Provided virtual machine
+# VMs
 
 ### CentOS-Stream-8-ContainerEnv
   
