@@ -17,7 +17,7 @@
 
   * 사용법
     - English: [README.en.md](README.en.md)
-    - 한국어: [README.kr.md](README.ko.md)
+    - 한국어: [README.kr.md](README.kr.md)
 
   * 다음 환경이 사전 설치되어 있습니다.
     * [cockpit](https://cockpit-project.org/) : Cockpit은 서버 관리용 웹 기반 그래픽 인터페이스입니다.
